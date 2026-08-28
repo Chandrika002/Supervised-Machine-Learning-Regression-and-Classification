@@ -1,0 +1,2 @@
+# Supervised-Machine-Learning-Regression-and-Classification
+This course (provided by Stanford Online DeepLearning.AI ) on Coursera platform ) helps me to build machine learning models in Python using popular machine learning libraries NumPy &amp; scikit-learn and to build &amp; train supervised machine learning models for prediction &amp; binary classification tasks, including linear regression &amp; logistic regression.
